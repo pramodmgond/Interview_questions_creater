@@ -1,7 +1,7 @@
 # Interview_questions_creater
 
 
-## How to run:
+## How to runs:
 
 1. Create an environment
 
